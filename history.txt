@@ -1,0 +1,887 @@
+    1  exit
+    2  ls
+    3  sudo apt-get install git
+    4  ls
+    5  $PATH git
+    6  sudo apt-get update
+    7  sudo apt-get install git
+    8  sudo apt-get update
+    9  sudo apt-get install git
+   10  sudo apt-get update
+   11  sudo apt-get install git
+   12  sudo apt-get dist-upgrade
+   13  sudo apt-get install git
+   14  sudo apt-get upgrade
+   15  sudo apt-get dist-upgrade
+   16  git --version
+   17  git clone
+   18  ls
+   19  git clone
+   20  git clone 
+   21  sudo apt-get install python3-pep8
+   22  sudo pip3 install -Iv pep8==1.7.0
+   23  pep8 --version
+   24  sudo apt install pep8
+   25  ls
+   26  pep8 --version
+   27  sudo apt-get remove --auto-remove pep8
+   28  sudo apt install python3-pep8
+   29  pep8 --version
+   30  sudo apt-get install python3-pep8
+   31  sudo apt-get remove --auto-remove Python3-pep8
+   32  pep8 --version
+   33  sudo apt install python3-pep8
+   34  sudo apt install pep8
+   35  sudo apt-get remove --auto-remove Python3-pep8
+   36  sudo pip3 install -Iv pep8==1.7.0
+   37  pep8 --version
+   38  sudo apt-get install emacs
+   39  git clone https://github.com/Musi340/alx-higher_level_programming.git
+   40  git clone https://github.com/Musi340/alx-low_level_programming.git
+   41  ls
+   42  git clone https://github.com/Musi340/alx-low_level_programming.git
+   43  ls
+   44  git clone https://github.com/Musi340/alx-system_engineering-devops.git
+   45  git clone https://github.com/Musi340/alx-zero_day.git
+   46  git clone https://github.com/Musi340/printf.git 
+   47  git clone https://github.com/Musi340/simpleshell.git
+   48  ls
+   49  cd alx-higher_level_programming
+   50  ls
+   51  mkdir 0-safe_print_list.py
+   52  mkdir 1-safe_print_integer.py
+   53  mkdir 2-safe_print_list_integers.py
+   54  rm -r 2-safe_print_list_integers.py
+   55  rm -r 1-safe_print_integer.py
+   56  rm -r 0-safe_print_list.py
+   57  ls
+   58  mkdir 0x05-python-exceptions
+   59  cd 0x05-python-exceptions
+   60  ls
+   61  touch README.md
+   62  touch 0-safe_print_list.py
+   63  touch 1-safe_print_integer.py
+   64  touch 2-safe_print_list_integers.py
+   65  touch 3-safe_print_division.py
+   66  touch 4-list_division.py
+   67  touch 5-raise_exception.py
+   68  touch 6-raise_exception_msg.py
+   69  ls
+   70  touch 0-main.py
+   71  touch 1-main.py
+   72  touch 2-main.py
+   73  touch 3-main.py
+   74  touch 4-main.py
+   75  touch 5-main.py
+   76  touch 6-main.py
+   77  ls
+   78  emacs REAME.md
+   79  git add README.md
+   80  git commit -m "Exceptions Handling"
+   81  git config --global user.email "you@example.com"
+   82  git config --global user.email "nyamusimercy61@gmail.com"
+   83  git commit -m "Exceptions Handling"
+   84  git push origin
+   85  emacs 0-main.py
+   86  emacs 1-main.py
+   87  emacs 2-main.py
+   88  emacs 3-main.py
+   89  emacs 4-main.py
+   90  emacs 5-main.py
+   91  emacs 6-main.py
+   92  clear
+   93  ls
+   94  rm *.py~
+   95  ls
+   96  emacs 0-safe_print_list.py 
+   97  ./0-main.py
+   98  chmod u+x *.py
+   99  ls
+  100  rm 0-safe_print_list.py~ 
+  101  ls
+  102  clear
+  103  ./0-main.py
+  104  emacs 0-safe_print_list.py 
+  105  ./0-main.py
+  106  emacs 0-safe_print_list.py 
+  107  ./0-main.py
+  108  emacs 0-safe_print_list.py 
+  109  ./0-main.py
+  110  emacs 0-safe_print_list.py 
+  111  ./0-main.py
+  112  emacs 0-safe_print_list.py 
+  113  ./0-main.py
+  114  emacs 0-safe_print_list.py 
+  115  ./0-main.py
+  116  emacs 0-safe_print_list.py 
+  117  ./0-main.py
+  118  emacs 0-safe_print_list.py 
+  119  ./0-main.py
+  120  emacs 0-safe_print_list.py 
+  121  ./0-main.py
+  122  emacs 0-safe_print_list.py 
+  123  ./0-main.py
+  124  emacs 0-safe_print_list.py 
+  125  ./0-main.py
+  126  emacs 0-safe_print_list.py 
+  127  ./0-main.py
+  128  emacs 0-safe_print_list.py 
+  129  ./0-main.py
+  130  emacs 0-safe_print_list.py 
+  131  ./0-main.py
+  132  emacs 0-safe_print_list.py 
+  133  ./0-main.py
+  134  emacs 0-safe_print_list.py 
+  135  clear
+  136  ls
+  137  emacs 1-safe_print_integer.py 
+  138  ./1-main.py
+  139  emacs 1-safe_print_integer.py 
+  140  ./1-main.py
+  141  emacs 1-safe_print_integer.py 
+  142  ./1-main.py
+  143  emacs 1-safe_print_integer.py 
+  144  ./1-main.py
+  145  emacs 1-safe_print_integer.py 
+  146  ./1-main.py
+  147  clear
+  148  emacs 1-safe_print_integer.py 
+  149  emacs 1-main.py
+  150  ./1-main.py
+  151  emacs 1-safe_print_integer.py 
+  152  ./1-main.py
+  153  emacs 1-safe_print_integer.py 
+  154  ls
+  155  emacs 3-safe_print_division.py 
+  156  ./3-main.py
+  157  emacs 3-safe_print_division.py 
+  158  ./3-main.py
+  159  emacs 3-safe_print_division.py 
+  160  ls
+  161  emacs 2-safe_print_list_integers.py 
+  162  emacs 3-safe_print_division.py 
+  163  emacs 2-safe_print_list_integers.py 
+  164  cp 3-safe_print_division.py 2-safe_print_list_integers.py 
+  165  emacs 2-safe_print_list_integers.py 
+  166  emacs 3-safe_print_division.py 
+  167  ./2-main.py
+  168  emacs 2-safe_print_list_integers.py 
+  169  ./2-main.py
+  170  emacs 2-safe_print_list_integers.py 
+  171  ./2-main.py
+  172  emacs 2-safe_print_list_integers.py 
+  173  ./2-main.py
+  174  emacs 2-safe_print_list_integers.py 
+  175  ./2-main.py
+  176  emacs 2-safe_print_list_integers.py 
+  177  ./2-main.py
+  178  emacs 2-safe_print_list_integers.py 
+  179  ./2-main.py
+  180  emacs 2-safe_print_list_integers.py 
+  181  ./2-main.py
+  182  emacs 2-safe_print_list_integers.py 
+  183  ./2-main.py
+  184  emacs 2-safe_print_list_integers.py 
+  185  clear
+  186  ./2-main.py
+  187  emacs 2-safe_print_list_integers.py 
+  188  ./2-main.py
+  189  emacs 2-main.py
+  190  emacs 2-safe_print_list_integers.py 
+  191  ./2-main.py
+  192  emacs 2-safe_print_list_integers.py 
+  193  ./2-main.py
+  194  emacs 2-safe_print_list_integers.py 
+  195  ./2-main.py
+  196  emacs 2-safe_print_list_integers.py 
+  197  ./2-main.py
+  198  emacs 2-safe_print_list_integers.py 
+  199  ./2-main.py
+  200  emacs 2-safe_print_list_integers.py 
+  201  ./2-main.py
+  202  emacs 2-safe_print_list_integers.py 
+  203  ./2-main.py
+  204  emacs 2-safe_print_list_integers.py 
+  205  clear
+  206  ls
+  207  emacs 2-safe_print_list_integers.py 
+  208  ./2-main.py
+  209  emacs 2-safe_print_list_integers.py 
+  210  ./2-main.py
+  211  ls
+  212  emacs 3-safe_print_division.py 
+  213  ./3-main.py
+  214  emacs 3-safe_print_division.py 
+  215  ./3-main.py
+  216  emacs 3-safe_print_division.py 
+  217  ./3-main.py
+  218  emacs 3-safe_print_division.py 
+  219  ./3-main.py
+  220  emacs 3-safe_print_division.py 
+  221  ./3-main.py
+  222  emacs 3-safe_print_division.py 
+  223  ./3-main.py
+  224  emacs 3-safe_print_division.py 
+  225  ./3-main.py
+  226  emacs 2-safe_print_list_integers.py 
+  227  ./2-main.py
+  228  ls
+  229  emacs 4-list_division.py 
+  230  ./4-main.py
+  231  emacs 4-list_division.py 
+  232  ./4-main.py
+  233  emacs 4-list_division.py 
+  234  clear
+  235  ./4-main.py
+  236  emacs 4-list_division.py 
+  237  ./4-main.py
+  238  emacs 4-list_division.py 
+  239  ./4-main.py
+  240  emacs 4-list_division.py 
+  241  ./4-main.py
+  242  emacs 4-list_division.py 
+  243  ./4-main.py
+  244  clear
+  245  emacs 4-list_division.py 
+  246  ./4-main.py
+  247  emacs 4-list_division.py 
+  248  ./4-main.py
+  249  emacs 4-list_division.py 
+  250  ls
+  251  clear
+  252  mkdir 0x07-networking_basics
+  253  cd 0x07-networking_basics
+  254  touch README.md
+  255  touch 0-OSI_model
+  256  emacs README.md
+  257  emacs 0-OSI_model
+  258  cat 0-OSI_model
+  259  emacs 0-OSI_model
+  260  cat 0-OSI_model
+  261  emacs 0-OSI_model
+  262  emacs 1-types_of_network
+  263  cat 0-OSI_model
+  264  emacs 0-OSI_model
+  265  cat 0-OSI_model
+  266  cat 1-types_of_network
+  267  emacs 2-MAC_and_IP_address
+  268  cat 2-MAC_and_IP_address
+  269  emacs 3-UDP_and_TCP
+  270  cat 3-UDP_and_TCP
+  271  clear
+  272  ls
+  273  git add README.md
+  274  ls
+  275  cd..
+  276  cd ..
+  277  ls
+  278  cd alx-system_engineering-devops 
+  279  ls
+  280  mkdir 0x07-networking_basics
+  281  cd 0x07-networking_basics
+  282  cd -
+  283  cd ..
+  284  ls
+  285  cd 0x07-networking_basics 
+  286  ls
+  287  cp 0-OSI_model alx-system_engineering-devops/0x07-networking_basics
+  288  cd ..
+  289  ls
+  290  cd alx-system_engineering-devops 
+  291  ls
+  292  cd 0x07-networking_basics 
+  293  ls
+  294  README.md
+  295  emacs README.md
+  296  touch 0-OSI_model 
+  297  ls
+  298  touch 1-types_of_network 
+  299  touch 2-MAC_and_IP_address 
+  300  touch 3-UDP_and_TCP 
+  301  ls
+  302  emacs 0-OSI_model 
+  303  emacs 1-types_of_network 
+  304  emacs 2-MAC_and_IP_address 
+  305  emacs 3-UDP_and_TCP 
+  306  cd ..
+  307  cd ,,
+  308  cd ..
+  309  ls
+  310  cd 0x07-networking_basics
+  311  ls
+  312  cat 0-OSI_model 
+  313  cd -
+  314  ls
+  315  rm -d 0x07-networking_basics 
+  316  cd alx-system_engineering-devops 
+  317  ls
+  318  0x07-networking_basics 
+  319  cd 0x07-networking_basics 
+  320  ls
+  321  git add README.md
+  322  git commit -m "Networking Basics #0"
+  323  git add 0-OSI_model
+  324  git commit -m "OSI Model"
+  325  git add 1-types_of_network 
+  326  git commit -m "Types of Network"
+  327  git add 2-MAC_and_IP_address 
+  328  git commit -m "MAC and IP address"
+  329  git add 3-UDP_and_TCP 
+  330  git commit -m 
+  331  git commit -m "UDP and TCP"
+  332  git push origin
+  333  clear
+  334  sudo apt-get install mysql-server
+  335  clear
+  336  sudo apt-get install mysql-server
+  337  clear
+  338  sudo apt-get install mysql-server
+  339  clear
+  340  sudo apt-get install mysql-server
+  341  apt-get update
+  342  ls
+  343  sudo apt-get install mysql-server
+  344  sudo apt update
+  345  sudo apt-get install mysql-server
+  346  mysql -u root -p
+  347  sudo apt-get install mysql-server
+  348  mysql -u root -p
+  349  sudo apt-get remove --purge mysql*
+  350  dpkg -l | grep mysql
+  351  sudo apt update && sudo apt install mysql-server
+  352  mysql -u root -p
+  353  sudo mysql_secure_installation
+  354  sudo /etc/init.d/mysql start
+  355  sudo service mysql start
+  356  mysql -u root -p
+  357  service mysql status
+  358  sudo stop mysql
+  359  service mysql status
+  360  sudo systemctl status mysqld
+  361  sudo status mysqld
+  362  ps -A
+  363  kill -KILL 2676
+  364  sudo service mysql start
+  365  mysql -u root -p
+  366  SHOW DATABASES;
+  367  sudo service mysql start
+  368  SHOW DATABASES;
+  369  sudo systemctl status mssql-server
+  370  sudo service redis-server start
+  371  clear
+  372  sudo apt-get update
+  373  sudo apt-get install mysql-server-5.7
+  374  mysql --version
+  375  service mysql start
+  376  sudo service mysql start
+  377  cat 0-list_databases.sql | mysql -uroot -p my_database
+  378  vlear
+  379  clear
+  380  ls
+  381  cd alx-higher_level_programming 
+  382  ls
+  383  mkdir 0x0D-SQL_introduction
+  384  cd 0x0D-SQL_introduction
+  385  touch 0-list_databases.sql
+  386  touch 1-create_database_if_missing.sql
+  387  touch 2-remove_database.sql
+  388  touch 3-list_tables.sql
+  389  touch 4-first_table.sql
+  390  touch 5-full_table.sql
+  391  touch 6-list_values.sql
+  392  touch 7-insert_value.sql
+  393  touch 8-count_89.sql
+  394  touch 9-full_creation.sql
+  395  touch 10-top_score.sql
+  396  touch 11-best_score.sql
+  397  touch 12-no_cheating.sql
+  398  touch 13-change_class.sql
+  399  touch 14-average.sql
+  400  touch 15-groups.sql
+  401  touch 16-no_link.sql
+  402  ls
+  403  emacs README.md
+  404  emacs 0-list_databases.sql 
+  405  git add README.md
+  406  git commit -m "SQL Introduction"
+  407  git add 0-list_databases.sql 
+  408  git commit -m "Listing databases"
+  409  git push origin
+  410  emacs 0-list_databases.sql 
+  411  git add 0-list_databases.sql 
+  412  git commit -m "Listing databases"
+  413  git push origin
+  414  sudo /etc/init.d/mysql stop
+  415  mysql -u root
+  416  sudo /etc/init.d/mysql stop
+  417  sudo apt-get --purge remove mysql-server mysql-common mysql-client
+  418  mysqladmin -u root password Uotbc2015
+  419  chmod 777 /var/run/mysqld/mysqld.sock
+  420  sudo service mysql start
+  421  ps -A|grep mysql
+  422  sudo pkill mysql
+  423  ps -A|grep mysql
+  424  mysql -u root -p
+  425  ps -A|grep mysql
+  426  mysqladmin -u root password Uotbc2015
+  427  ps -A|grep mysql
+  428  service mysql restart
+  429  ps -A|grep mysql
+  430  mysqladmin -u root password Uotbc2015
+  431  sudo dpkg-reconfigure mysql-server-N.N
+  432  sudo /usr/sbin/mysqld --skip-grant-tables --skip-networking &
+  433  mysql -u root -p
+  434  cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+  435  mysql -V
+  436  cat 0-list_databases.sql
+  437  cat 0-list_databases.sql | mysql -root -p
+  438  cat 0-list_databases.sql | mysql -hlocalhost -uroot -p
+  439  emacs 0-list_databases.sql 
+  440  git add 0-list_databases.sql 
+  441  git commit -m "Listing databases"
+  442  git push origin
+  443  emacs 0-list_databases.sql 
+  444  git add 0-list_databases.sql 
+  445  git commit -m "Listing databases"
+  446  git push origin
+  447  ls
+  448  emacs 1-create_database_if_missing.sql 
+  449  git add 1-create_database_if_missing.sql 
+  450  git commit -m "Creating databases"
+  451  git push origin 
+  452  emacs 1-create_database_if_missing.sql 
+  453  git add 1-create_database_if_missing.sql 
+  454  git commit -m "Creating databases"
+  455  git push origin 
+  456  emacs 1-create_database_if_missing.sql 
+  457  git add 1-create_database_if_missing.sql 
+  458  git commit -m "Creating databases"
+  459  git push origin 
+  460  emacs 1-create_database_if_missing.sql 
+  461  git add 1-create_database_if_missing.sql 
+  462  git commit -m "Creating databases"
+  463  git push origin 
+  464  emacs 1-create_database_if_missing.sql 
+  465  git add 1-create_database_if_missing.sql 
+  466  git commit -m "Creating databases"
+  467  git push origin 
+  468  emacs 1-create_database_if_missing.sql 
+  469  git push origin 
+  470  git add 1-create_database_if_missing.sql 
+  471  git commit -m "Creating databases"
+  472  git push origin 
+  473  emacs 1-create_database_if_missing.sql 
+  474  git add 1-create_database_if_missing.sql 
+  475  git commit -m "Creating databases"
+  476  git push origin 
+  477  cat 1-create_database_if_missing.sql 
+  478  clear
+  479  ls
+  480  emacs 2-remove_database.sql 
+  481  git add 2-remove_database.sql 
+  482  git commit -m "Deleting databases"
+  483  git push origin 
+  484  emacs 3-list_tables.sql 
+  485  git add 3-list_tables.sql 
+  486  git commit -m "Listing tables in a database"
+  487  git push origin 
+  488  clear
+  489  ls
+  490  rm *.sql~
+  491  ls
+  492  emacs 4-first_table.sql 
+  493  git add 4-first_table.sql 
+  494  git commit -m "Creating a table"
+  495  git push origin
+  496  emacs 5-full_table.sql 
+  497  git add 5-full_table.sql 
+  498  git commit -m "Full description of table"
+  499  git push origin master
+  500  git push origin 
+  501  emacs 5-full_table.sql 
+  502  git add 5-full_table.sql 
+  503  git commit -m "Full description of table"
+  504  git push origin 
+  505  emacs 5-full_table.sql 
+  506  git add 5-full_table.sql 
+  507  git commit -m "Full description of table"
+  508  git push origin 
+  509  emacs 5-full_table.sql 
+  510  git add 5-full_table.sql 
+  511  git commit -m "Full description of table"
+  512  git push origin 
+  513  emacs 5-full_table.sql 
+  514  git add 5-full_table.sql 
+  515  git commit -m "Full description of table"
+  516  git push origin 
+  517  l
+  518  emacs 6-list_values.sql 
+  519  git add 6-list_values.sql 
+  520  git commit -m "Listing rows in a table"
+  521  git push origin
+  522  emacs 6-list_values.sql 
+  523  git add 6-list_values.sql 
+  524  git commit -m "Listing rows in a table"
+  525  git push origin
+  526  clear
+  527  ls
+  528  emacs 7-insert_value.sql 
+  529  git add 7-insert_value.sql 
+  530  git commit -m "Adding rows in a table"
+  531  git push origin
+  532  emacs 7-insert_value.sql 
+  533  git add 7-insert_value.sql 
+  534  git commit -m "Adding rows in a table"
+  535  git push origin
+  536  ls
+  537  emacs 8-count_89.sql 
+  538  git add 8-count_89.sql 
+  539  git commit -m "Counting rows in a table"
+  540  git push origin 
+  541  emacs 9-full_creation.sql 
+  542  git add 9-full_creation.sql  
+  543  git commit -m "Adding multiple rows in a table"
+  544  git push origin
+  545  ls
+  546  emacs 10-top_score.sql 
+  547  emacs 11-best_score.sql 
+  548  emacs 10-top_score.sql 
+  549  git add 10-top_score.sql 
+  550  git commit -m "Sorting rows in a table"
+  551  git push origin
+  552  emacs 11-best_score.sql 
+  553  git add 11-best_score.sql 
+  554  git commit -m "Sorting rows in a table"
+  555  git push origin
+  556  emacs 12-no_cheating.sql 
+  557  git add 12-no_cheating.sql 
+  558  git commit -m "Updating rows in a table"
+  559  git push origin
+  560  emacs 12-no_cheating.sql 
+  561  git add 12-no_cheating.sql 
+  562  git commit -m "Updating rows in a table"
+  563  git push origin
+  564  ls
+  565  emacs 13-change_class.sql 
+  566  git add 13-change_class.sql 
+  567  git commit -m "Deleting records in a table"
+  568  git push origin
+  569  emacs 13-change_class.sql 
+  570  git add 13-change_class.sql 
+  571  git commit -m "Deleting records in a table"
+  572  git push origin
+  573  emacs 14-average.sql 
+  574  git add 14-average.sql 
+  575  git commit -m "Finding the average in a table"
+  576  git push origin
+  577  ls
+  578  emacs 15-groups.sql 
+  579  git add15-groups.sql 
+  580  git add 15-groups.sql 
+  581  git commit -m "Finding duplicate values in a table"
+  582  git push roigin
+  583  git push origin
+  584  emacs 15-groups.sql 
+  585  git add 15-groups.sql 
+  586  git commit -m "Finding duplicate values in a table"
+  587  git push origin
+  588  emacs 15-groups.sql 
+  589  git add 15-groups.sql 
+  590  git commit -m "Finding duplicate values in a table"
+  591  git push origin
+  592  emacs 15-groups.sql 
+  593  ls
+  594  rm -r 0x07-networking_basics 
+  595  ls
+  596  cd alx-higher_level_programming 
+  597  mkdir 0x0E-SQL_more_queries
+  598  cd 0x0E-SQL_more_queries
+  599  touch README.md
+  600  touch 0-privileges.sql
+  601  touch 1-create_user.sql
+  602  touch 2-create_read_user.sql
+  603  touch 3-force_name.sql
+  604  touch 4-never_empty.sql
+  605  touch 5-unique_id.sql
+  606  touch 6-states.sql
+  607  touch 7-cities.sql
+  608  touch 8-cities_of_california_subquery.sql
+  609  touch 9-cities_by_state_join.sql
+  610  touch 10-genre_id_by_show.sql
+  611  touch 11-genre_id_all_shows.sql
+  612  touch 12-no_genre.sql
+  613  touch 13-count_shows_by_genre.sql
+  614  touch 14-my_genres.sql
+  615  touch 15-comedy_only.sql
+  616  touch 16-shows_by_genre.sql
+  617  clear
+  618  ls
+  619  emacs README.md
+  620  la
+  621  rm *.md~
+  622  ls
+  623  clear
+  624  ls
+  625  emacs 0-privileges.sql 
+  626  git add 0-privileges.sql 
+  627  git commit -m "Listing privileges of multiple users"
+  628  git add READMR.md
+  629  git add README.md
+  630  git commit -m "SQL-More Queries"
+  631  git push origin
+  632  ls
+  633  emacs 0-privileges.sql 
+  634  git add 0-privileges.sql 
+  635  git commit -m "Listing privileges of multiple users"
+  636  git push origin
+  637  clear
+  638  ls
+  639  cd JPMC-tech-task-1-py3
+  640  clear
+  641  python3 server3.py
+  642  sudo apt-get install python-pip
+  643  sudo apt update
+  644  cd .
+  645  cd ..
+  646  sudo apt update
+  647  sudo apt-get install python3-pip
+  648  --version python3-pip
+  649  --Version python3-pip
+  650  cd -
+  651  clear
+  652  python3 server.py
+  653  pip --version
+  654  pip install python-dateutil
+  655  cd -
+  656  pip --version
+  657  cd -
+  658  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  659  cd -
+  660  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  661  pip --version
+  662  python3 get-pip.py
+  663  pip --version
+  664  echo $PATH
+  665  cd /home/nyamusi/.local/bin
+  666  ls
+  667  pwd
+  668  cd ..
+  669  cd <python directory>\Scripts
+  670  cd \usr\local
+  671  cd \usr\local\
+  672  ls
+  673  cd /home/nyamusi/.local/bin
+  674  ls
+  675  find python
+  676  find Python
+  677  cd ..
+  678  find pip
+  679  find ~/ pip
+  680  cd /home/nyamusi/.local/lib/python3.8
+  681  \Tools\scripts\win_add2path.py
+  682  ls
+  683  cd ..
+  684  ls
+  685  cd -
+  686  cd ..
+  687  cd /home/nyamusi/.cache
+  688  ls
+  689  cd pip
+  690  ls
+  691  printenv
+  692  pip --version
+  693  cd ..
+  694  pip --version
+  695  cd -
+  696  cd ..
+  697  ls
+  698  cd JPMC-tech-task-1-py3
+  699  clear
+  700  python3 server3.py
+  701  cd ..
+  702  ls
+  703  cd get-pip.py
+  704  py get-pip.py
+  705  sudo apt install pythonpy
+  706  py get-pip.py
+  707  clear
+  708  ls
+  709  python --version
+  710  python3 --version
+  711  pip --version
+  712  ls
+  713  cd JPMC-tech-task-1-py3
+  714  python3 --version
+  715  pip --version
+  716  python3 server3.py
+  717  pip install python-dateutil
+  718  clear
+  719  python3 server3.py
+  720  ls
+  721  cd JPMC-tech-task-1-py3
+  722  python3 client3.py
+  723  ls
+  724  cd JPMC-tech-task-1-py3
+  725  python3 server3.py
+  726  lear
+  727  ls
+  728  cd JPMC-tech-task-1-py3
+  729  python3 server3.py
+  730  ls
+  731  cd JPMC-tech-task-1-py3
+  732  ls
+  733  python3 server3.py
+  734  cd JPMC-tech-task-1-py3
+  735  python3 client3.py
+  736  ls
+  737  cd JPMC-tech-task-1-py3
+  738  ls
+  739  python3 client3.py
+  740  ls
+  741  git add .
+  742  git commit -m "tasks python3"
+  743  git push origin master
+  744  git clone https://github.com/insidesherpa/JPMC-tech-task-1-py3.git
+  745  ls
+  746  rm -r JPMC-tech-task-1-py3
+  747  rm JPMC-tech-task-1-py3
+  748  rm -R JPMC-tech-task-1-py3
+  749  ls
+  750  rm -R JPMC-tech-task-1-py3
+  751  cd JPMC-tech-task-1-py3
+  752  ls
+  753  rm test.csv
+  754  rm server3.py
+  755  rm client_test.py
+  756  rm client3.py
+  757  rm README.markdown
+  758  ls
+  759  cd ..
+  760  ls
+  761  rm -r JPMC-tech-task-1-py3
+  762  rmdir JPMC-tech-task-1-py3
+  763  ls
+  764  cd JPMC-tech-task-1-py3
+  765  ls
+  766  clear
+  767  ls
+  768  cd ..
+  769  ls
+  770  clear
+  771  ls
+  772  git clone https://github.com/insidesherpa/JPMC-tech-task-1-PY3.git
+  773  ls
+  774  cd JPMC-tech-task-1-py3
+  775  ls
+  776  cd ..
+  777  cd JPMC-tech-task-1-PY3
+  778  cd JPMC-tech-task-1-py3
+  779  ls
+  780  clear
+  781  ls
+  782  cd ..
+  783  ls
+  784  cd JPMC-tech-task-1-PY3
+  785  ls
+  786  cd ..
+  787  cd JPMC-tech-task-1-py3
+  788  ls
+  789  cd ..
+  790  rm -r JPMC-tech-task-1-py3
+  791  y
+  792  yls
+  793  clear
+  794  ls
+  795  cd JPMC-tech-task-1-PY3
+  796  ls
+  797  git add .
+  798  git commit -m "tasks python3"
+  799  emacs client3.py
+  800  git add .
+  801  git commit -m "changes to client3"
+  802  git push origin
+  803  python3 server3.py
+  804  ls
+  805  cd JPMC-tech-task-1-py3
+  806  ls
+  807  clear
+  808  python3 server3.py
+  809  ls
+  810  cd  alx-zero_day
+  811  ls
+  812  cd   0x01-emacs
+  813  cd .
+  814  cd ..
+  815  cd -
+  816  cd ...
+  817  cd ../..
+  818  cd -
+  819  cd 
+  820  cd -
+  821  ls ../../
+  822  ls .
+  823  ls
+  824  ls ..
+  825  ls ...
+  826  man cp
+  827  clear
+  828  cd
+  829  clear
+  830  mkdir git-basic-exercises
+  831  ls
+  832  cd git-basic-exercises
+  833  ls -a
+  834  ls
+  835  git init
+  836  als
+  837  clear
+  838  ls
+  839  ls -a
+  840  git status
+  841  touch README.md
+  842  ls -a
+  843  git status
+  844  git log
+  845  git add README.md
+  846  git status
+  847  git --amend
+  848  git reset HEAD README.md
+  849  git reset README.md
+  850  ls -a
+  851  git status
+  852  git add README.md
+  853  git commit -m "My README file"
+  854  git log
+  855  emacs README.md
+  856  cat README.md
+  857  git status
+  858  git add README.md
+  859  git commit -m "Second commit"
+  860  git log
+  861  git checkout 1237580a24b884e52a48a2678d811f181c8e1e6f
+  862  cat README.md
+  863  git checkout master
+  864  cat README.md
+  865  git branch
+  866  git branch milkshake-flavours
+  867  git branch
+  868  git checkout milkshake-flavours
+  869  git branch
+  870  emacs milkshakes.md
+  871  git status
+  872  git add milkshakes.md
+  873  git commit -m "added initial flavours"
+  874  git log
+  875  git checkout master
+  876  git status
+  877  ls
+  878  git log
+  879  git branch history
+  880  git checkout history
+  881  git branch
+  882  git log
+  883  git checkout milkshake-flavours
+  884  git log
+  885  git checkout history
+  886  git branch
+  887  history > history.txt
